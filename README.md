@@ -1,5 +1,26 @@
-> Julia Sudário Silva - RA 007217
+## Estrutura de Dados II - Sistemas de Informação
+Julia Sudário Silva - RA 007217
 
-> Implementado uma função de busca para encontrar palavras dentro da tabela hash
+## Projeto Tabela Hash em Java
 
-![Palavra encontrada](palavraEncontrada.png)
+Projeto simples em Java que implementa uma tabela hash com categorias baseadas na primeira letra das palavras. Ele gera palavras aleatórias, insere na tabela, e permite buscar uma palavra informada pelo usuário.
+
+
+## Exemplo da Tabela Hash
+
+[Palavra encontrada](prints/palavraEncontrada.png) | [Palavra não encontrada](prints/palavraNaoEncontrada.png)
+
+
+## Tecnologias usadas
+
+- Java
+- ArrayList
+- Scanner
+
+
+## Como executar
+
+1. Compile o projeto:
+
+```bash
+javac App.java GeradorPalavras.java
